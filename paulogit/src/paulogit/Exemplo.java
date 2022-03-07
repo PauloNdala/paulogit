@@ -6,6 +6,8 @@ public class Exemplo {
 		
 		System.out.println("Olá tudo bem");
 		System.out.println("Olá tudo bem");
+		System.out.println("Olá tudo bem");
+		
 
 	}
 
